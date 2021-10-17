@@ -1,4 +1,4 @@
-import("env")
+Import("env")
 from shutil import copyfile
 
 # copy User_Setup.h configuration to downloaded library
